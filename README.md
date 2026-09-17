@@ -5,7 +5,7 @@ Node.js image processing utility for resizing and watermarking images.
 ## Installation
 
 ```bash
-npm install @tithi23/image-processor
+npm install @smart-development/image-processor
 ```
 
 ## Usage
