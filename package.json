@@ -1,0 +1,26 @@
+{
+  "name": "@smart-development/image-processing-package",
+  "version": "1.0.0",
+  "description": "Image resizing and watermarking package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "image-processing",
+    "image-resize",
+    "watermark",
+    "sharp"
+  ],
+  "author": "Tithi Dutta",
+  "license": "MIT",
+  "files": [
+    "src",
+    "images"
+  ],
+  "type": "commonjs",
+  "dependencies": {
+    "sharp": "^0.35.4"
+  }
+  
+}
