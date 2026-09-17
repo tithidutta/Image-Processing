@@ -41,7 +41,7 @@ Process an image with specified options.
 | `watermarkPath`     | string  | ""              | Path to watermark image             |
 | `watermarkOpacity`  | number  | 0.5             | Opacity of watermark                |
 | `resize`            | boolean | true            | Enable resizing                     |
-| `requiredMaxSize`   | number  | 1 _ 1024 _ 1024 | Required maximum file size in bytes |
+| `requiredMaxSize`   | number  | 1 * 1024 * 1024 | Required maximum file size in bytes |
 | `watermarkText`     | string  | ""              | Text to use as watermark            |
 | `watermarkColor`    | string  | "red"           | Color of text watermark             |
 | `watermarkFontSize` | number  | ""              | Font size of text watermark         |
