@@ -1,6 +1,6 @@
 {
   "name": "@smart-development/image-processing-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Image resizing and watermarking package",
   "main": "index.js",
   "scripts": {
